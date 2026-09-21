@@ -32,7 +32,7 @@ A simple automatic light system using an **HC-SR04 ultrasonic sensor, Arduino Un
 ![](Hc-sr04-circuit.png)
 
 **RESULT**  
-**![][image2]**
+![](hc-sr04-result.jpeg)
 
 ### **Notes**
 
